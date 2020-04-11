@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Reader
+comment1.params=
+comment1.target=java.util.ArrayList\ readText()
+comment2.params=in
+comment2.target=void\ processor(java.lang.String)
+comment3.params=
+comment3.target=java.util.ArrayList\ getStorage()
+numComments=4
